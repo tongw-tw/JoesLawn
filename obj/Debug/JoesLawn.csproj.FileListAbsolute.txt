@@ -1,0 +1,5 @@
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\test\JoesLawn\obj\Debug\JoesLawn.csprojAssemblyReference.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\test\JoesLawn\obj\Debug\MainWindow.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\test\JoesLawn\obj\Debug\App.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\test\JoesLawn\obj\Debug\JoesLawn_MarkupCompile.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\test\JoesLawn\obj\Debug\JoesLawn_MarkupCompile.lref
